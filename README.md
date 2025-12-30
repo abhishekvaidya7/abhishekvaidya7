@@ -1,27 +1,14 @@
-## 👋 Abhishek Vaidya | Data Analyst Intern / Fresher
+# 💫 About Me:
+## 👋 Abhishek Vaidya | Data Analyst Intern / Fresher<br><br>- 🎓 B.Tech CSE (Data Science) student<br>- 📊 Aspiring **Data Analyst**<br>- 📍 Nagpur, India<br><br>### 🔎 Quick Profile<br>- 💡 Learning **SQL & Python for Data Analysis**<br>- 📈 Hands-on with **Excel, Power BI, SQL**<br>- 🧠 Strong in **data understanding + communication**<br>- 🎯 Looking for **Data Analyst / BI Intern or Entry-Level Role**<br><br>### 🛠️ Core Skills<br>- **Data Tools:** SQL, Excel, Power BI<br>- **Programming:** Python (Pandas, NumPy), C, C++<br>- **Database:** MySQL<br>- **Tools:** Git, GitHub, VS Code<br><br>### 📌 Practical Experience<br>- 📊 Stock Market Analysis Project<br>- 🎟️ Online Ticket Booking System<br>- 🏨 Hotel Management System<br>- 🚪 Smart Gate Pass System (Final Year Project)<br><br>### 📫 Contact<br>- 📧 Email: abhishekvaidya707@gmail.com<br>- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here<br>- 🧑‍💻 GitHub: https://github.com/abhishekvaidya7
 
-- 🎓 B.Tech CSE (Data Science) student
-- 📊 Aspiring **Data Analyst**
-- 📍 Nagpur, India
 
-### 🔎 Quick Profile
-- 💡 Learning **SQL & Python for Data Analysis**
-- 📈 Hands-on with **Excel, Power BI, SQL**
-- 🎯 Looking for **Data Analyst / BI Intern or Entry-Level Role**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aresen_lupin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek_vaidya_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhishek Vaidya) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Smart_Assumption_614) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TriumphRider_India) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekvaidya707@gmail.com) 
 
-### 🛠️ Core Skills
-- **Data Tools:** SQL, Excel, Power BI
-- **Programming:** Python, C, C++
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-### 📌 Practical Experience
-- 📊 Stock Market Analysis Project
-- 🎟️ Online Ticket Booking System
-- 🏨 Hotel Management System
-- 🚪 Smart Gate Pass System (Final Year Project)
 
-### 📫 Contact
-- 📧 Email: abhishekvaidya707@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-vaidya-b89184245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 🧑‍💻 GitHub: https://github.com/abhishekvaidya7
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

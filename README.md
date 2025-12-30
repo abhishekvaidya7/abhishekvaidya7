@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Abhishek Vaidya | Data Analyst Intern / Fresher
 
-<!--
-**abhishekvaidya7/abhishekvaidya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech CSE (Data Science) student
+- 📊 Aspiring **Data Analyst**
+- 📍 Nagpur, India
 
-Here are some ideas to get you started:
+### 🔎 Quick Profile
+- 💡 Learning **SQL & Python for Data Analysis**
+- 📈 Hands-on with **Excel, Power BI, SQL**
+- 🎯 Looking for **Data Analyst / BI Intern or Entry-Level Role**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Skills
+- **Data Tools:** SQL, Excel, Power BI
+- **Programming:** Python, C, C++
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Practical Experience
+- 📊 Stock Market Analysis Project
+- 🎟️ Online Ticket Booking System
+- 🏨 Hotel Management System
+- 🚪 Smart Gate Pass System (Final Year Project)
+
+### 📫 Contact
+- 📧 Email: abhishekvaidya707@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-vaidya-b89184245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🧑‍💻 GitHub: https://github.com/abhishekvaidya7
